@@ -8,8 +8,6 @@ Recruiting test
 
 mvn clean package \
 java - jar /target/car-on-demand-0.1.0.jar.jar \
-npm install \
-npm start
 
 ### Swagger Documentation ###
 http://localhost:8092/swagger-ui.html
